@@ -3,6 +3,7 @@
 A Business Intelligence and Sustainability Analytics platform developed in Python that simulates ESG governance, supplier due diligence, internal sustainability reporting, and decision intelligence for a global electronics manufacturer.
 
 The project demonstrates how Business Intelligence can support sustainability initiatives by combining ESG reporting, supplier risk analysis, monitoring systems, and automated decision support.
+<img width="1916" height="735" alt="image" src="https://github.com/user-attachments/assets/f7c07f05-4b66-4410-8e15-ca21db47a384" />
 
 ---
 
